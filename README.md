@@ -6,8 +6,9 @@
 This repository is the official implementation of [DiffusionGAN3D](https://arxiv.org/abs/2312.16837).
 
 
-> **[DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors](https://arxiv.org/abs/2312.16837)** </br>
+> **[DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaptation by Combining 3D GANs and Diffusion Priors](https://arxiv.org/abs/2312.16837)** </br>
 > Biwen Lei, Kai Yu, Mengyang Feng, Miaomiao Cui, Xuansong Xie</br>
+> In CVPR 2024</br>
 > Alibaba Group, Hangzhou, China
 
 
